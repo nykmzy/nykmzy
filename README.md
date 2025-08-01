@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim 
 
 Sou estudante de `Análise e Desenvolvimento de Sistemas` na `Estácio`.  
 Comecei a me envolver com programação ainda muito jovem, durante as aulas de `Informática e Robótica` no Ensino Fundamental, onde aprendi desde o uso do Excel até a programação de robôs.  
@@ -47,5 +47,10 @@ Tenho muita facilidade com tecnologia e me adapto rapidamente a novos desafios.
 🐙 GitHub: [github.com/nykmzy](https://github.com/nykmzy)
 
 ---
-<img src="./img/pixelart.jpg">
+
+</td>
+    <td align="center" width="40%">
+      <img src="[https://github.com/nykmzy/nykmzy/edit/main/README.md]" alt="Minha foto ou imagem ilustrativa" width="200px" style="border-radius: 10px;">
+    </td>
+  </tr>
 
