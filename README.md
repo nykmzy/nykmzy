@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Nataly Kamizi 🖥️</h1>
+<h1 align="center">Olá! Eu me chamo Nataly Kamizi 🖥️</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Estácio</strong><br>
