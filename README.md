@@ -43,7 +43,7 @@ Tenho muita facilidade com tecnologia e me adapto rapidamente a novos desafios.
 
 ## 🌐 Contato:
 📧 E-mail: **natalykamizi00@gmail.com**  
-💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+💼 LinkedIn: [Nataly Kamizi](https://www.linkedin.com/in/nataly-kamizi-636a08362)  
 🐙 GitHub: [github.com/nykmzy](https://github.com/nykmzy)
 
 ---
