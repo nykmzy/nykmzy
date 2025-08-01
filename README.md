@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Nataly Kamizi 👋</h1>
+<h1 align="center">Olá! Eu sou a Nataly Kamizi 🖥️</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Estácio</strong><br>
@@ -48,9 +48,4 @@ Tenho muita facilidade com tecnologia e me adapto rapidamente a novos desafios.
 
 ---
 
-</td>
-    <td align="center" width="40%">
-      <img src="[https://github.com/nykmzy/nykmzy/edit/main/README.md]" alt="Minha foto ou imagem ilustrativa" width="200px" style="border-radius: 10px;">
-    </td>
-  </tr>
 
