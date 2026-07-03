@@ -20,13 +20,14 @@
 | Ferramentas | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vscode](https://skillicons.dev/icons?i=vscode) |
 | Estudando | ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) |
   
-</div> 
 
 | Projeto | Descrição |
 |----------|------------|
 | Dashboard RH | Sistema de análise de folha de pagamento com Python e SQL |
 | CRM Clínica Estética | Sistema de gestão de clientes desenvolvido em Flask |
 | Controle de Estoque | Aplicação de gerenciamento de produtos e movimentações |****
+
+</div> 
 
 <p align="center">
   <picture>
