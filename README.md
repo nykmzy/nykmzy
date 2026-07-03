@@ -10,6 +10,20 @@
   <img src="https://raw.githubusercontent.com/nykmzy/nykmzy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+| Categoria | Tecnologias |
+|-----------|--------------|
+| Linguagens | ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![PHP](https://skillicons.dev/icons?i=php) |
+| Frontend | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) |
+| Banco de Dados | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| Ferramentas | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vscode](https://skillicons.dev/icons?i=vscode) |
+| Estudando | ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) |
+
+| Projeto | Descrição |
+|----------|------------|
+| Dashboard RH | Sistema de análise de folha de pagamento com Python e SQL |
+| CRM Clínica Estética | Sistema de gestão de clientes desenvolvido em Flask |
+| Controle de Estoque | Aplicação de gerenciamento de produtos e movimentações |****
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
